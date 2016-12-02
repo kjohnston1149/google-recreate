@@ -27,7 +27,7 @@ _For help, contact:_
 
 ## Technologies Used
 
-_This application uses HTML & CSS, as well as MaterializeCSS.  For more information on Materialize, see http://materializecss.com/ _
+_This application uses HTML, CSS, JavaScript, and JQuerey as well as MaterializeCSS.  For more information on Materialize, see http://materializecss.com/_
 
 ### License
 
