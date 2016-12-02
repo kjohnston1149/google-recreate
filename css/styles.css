@@ -3,12 +3,17 @@
   margin: 0;
 }*/
 
+* {
+  font-weight: normal;
+}
 img {
   height: 100%;
   width: auto;
 }
 
-
+.material-icons {
+  color: #5E5E5E;
+}
 .nav-wrapper {
   background-color: #fafafa;
   color: #000;
