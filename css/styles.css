@@ -19,6 +19,11 @@ img {
 }
 
 #tile1 {
-  width: 100vw;
-  min-width: 700px;
+  width: 100%;
+  min-width: 600px;
+}
+
+#tile2, #tile3 {
+  width: 100%;
+  height: 100%;
 }
