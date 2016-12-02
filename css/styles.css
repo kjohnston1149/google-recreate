@@ -9,17 +9,13 @@
 
 body {
   max-width: 1475px;
-  max-height: 800px;
+  max-height: 500px;
 }
 img {
   height: 100%;
   width: auto;
 }
 
-span.card-title {
-  font-size: 1em;
-  line-height: 500px;
-}
 .row {
   height: 58vh;
 }
@@ -45,7 +41,7 @@ span.card-title {
   overflow: hidden;
 }
 
-.col.s12.m6.l4 {
+.col.s12.m6.l4, .col.s12.m12.l8 {
   margin: 0;
   padding: 0;
 }
@@ -61,7 +57,7 @@ span.card-title {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  height: 60vh;
+  height: 710px;
   /*width: 100%;*/
   /*min-height: 800px;*/
   position: relative;
